@@ -10,7 +10,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝
 ```
 
-<img src="./Logo Font Border or Stroke.png" alt="RantAI Logo" width="500"/>
+<img src="../Logo Font Border or Stroke.png" alt="RantAI Logo" width="500"/>
 
 ### 🌌 **Pioneering the Future of Scientific Computing & AI** 🌌
 
@@ -26,7 +26,7 @@
 ### 📖 **"Large Language Models via Rust"** 📖
 *Our groundbreaking open-source publication pushing the boundaries of AI development*
 
-<img src="./11 Large Language Models via Rust - Alt.png" alt="LLM via Rust Book" width="280" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.3);"/>
+<img src="../11 Large Language Models via Rust - Alt.png" alt="LLM via Rust Book" width="280" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.3);"/>
 
 **📑 Part of our comprehensive technical library - 10+ published books and counting!**
 
@@ -563,7 +563,7 @@ We believe cutting-edge technical knowledge should be accessible to everyone. Ou
 
 ---
 
-<img src="./Logo-only Border or Stroke.png" alt="RantAI Icon" width="100"/>
+<img src="../Logo-only Border or Stroke.png" alt="RantAI Icon" width="100"/>
 
 **© 2024-2025 RantAI-dev | Pioneering the Future of Scientific Computing**
 
