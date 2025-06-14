@@ -199,12 +199,12 @@ Democratizing access to transformative technologies, enabling businesses to:
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RantAI-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RantAI-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&type=owner)
 
 </td>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RantAI-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RantAI-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&type=owner)
 
 </td>
 </tr>
@@ -227,7 +227,7 @@ Democratizing access to transformative technologies, enabling businesses to:
 ### 🦀 **Rust LLM Framework**
 *High-performance Large Language Model implementation*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RantAI-dev&repo=rust-llm&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/RantAI-dev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RantAI-dev&repo=rust-llm&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&type=owner)](https://github.com/RantAI-dev/rust-llm)
 
 **📖 Featured in our LMVR book series**
 
@@ -237,7 +237,7 @@ Democratizing access to transformative technologies, enabling businesses to:
 ### 🔬 **Scientific Computing Suite**
 *Advanced simulation and modeling tools*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RantAI-dev&repo=sci-compute&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/RantAI-dev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RantAI-dev&repo=sci-compute&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&type=owner)](https://github.com/RantAI-dev/sci-compute)
 
 **📖 Comprehensive examples from our book series**
 
@@ -247,9 +247,9 @@ Democratizing access to transformative technologies, enabling businesses to:
 ### 🎓 **Open Knowledge Hub**
 *Free access to all our technical publications*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RantAI-dev&repo=open-books&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/RantAI-dev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RantAI-dev&repo=open-books&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&type=owner)](https://github.com/RantAI-dev/open-books)
 
-**📚 Download all 10+ books for free!**
+**📚 Read all 10+ books for free!**
 
 </td>
 </tr>
@@ -264,25 +264,25 @@ Democratizing access to transformative technologies, enabling businesses to:
 
 #### 🔧 **Foundation Series** (Books 1-3)
 Perfect for developers starting their Rust journey
-- **TRPL**: Master the core language
-- **SDPR**: Learn elegant architecture patterns  
-- **DSAR**: Optimize with efficient algorithms
+- **<a href="https://trpl.rantai.dev">TRPL</a>**: Master the core language
+- **<a href="https://sdpr.rantai.dev">SDPR</a>**: Learn elegant architecture patterns  
+- **<a href="https://dsar.rantai.dev">DSAR</a>**: Optimize with efficient algorithms
 
 #### 🤖 **AI/ML Mastery** (Books 4-6, 10)
 Cutting-edge artificial intelligence in Rust
-- **MLVR**: Traditional machine learning foundations
-- **LMVR**: 🌟 State-of-the-art language models
-- **DLVR**: Deep neural networks and architectures
-- **RLVR**: Autonomous decision-making systems
+- **<a href="https://mlvr.rantai.dev">MLVR</a>**: Traditional machine learning foundations
+- **<a href="https://lmvr.rantai.dev">LMVR</a>**: 🌟 State-of-the-art language models
+- **<a href="https://dlvr.rantai.dev">DLVR</a>**: Deep neural networks and architectures
+- **<a href="https://rlvr.rantai.dev">RLVR</a>**: Autonomous decision-making systems
 
 #### 🏢 **Business Intelligence** (Books 7, 9)
 Strategic thinking meets technical implementation
-- **MMAB**: Corporate growth and acquisition strategies
-- **SSCM**: Next-generation supply chain optimization
+- **<a href="https://mmab.rantai.dev">MMAB</a>**: Corporate growth and acquisition strategies
+- **<a href="https://sscm.rantai.dev">SSCM</a>**: Next-generation supply chain optimization
 
 #### 💾 **Data Engineering** (Book 8)
 Modern database systems and architectures
-- **MMDR**: Multi-model database design in Rust
+- **<a href="https://mmdr.rantai.dev">MMDR</a>**: Multi-model database design in Rust
 
 </details>
 
@@ -336,62 +336,62 @@ We don't just follow trends — **we create them**. Our unique approach combines
 <tr>
 <td align="center">1️⃣</td>
 <td align="center">**Foundation**</td>
-<td align="center">`TRPL`</td>
-<td>**The Rust Programming Language** - *Core language mastery*</td>
+<td align="center"><a href="https://trpl.rantai.dev"><code>TRPL</code></a></td>
+<td><a href="https://trpl.rantai.dev"><strong>The Rust Programming Language</strong> - <em>Core language mastery</em></a></td>
 </tr>
 <tr>
 <td align="center">2️⃣</td>
 <td align="center">**Architecture**</td>
-<td align="center">`SDPR`</td>
-<td>**Software Design Patterns in Rust** - *Elegant code structure*</td>
+<td align="center"><a href="https://sdpr.rantai.dev"><code>SDPR</code></a></td>
+<td><a href="https://sdpr.rantai.dev"><strong>Software Design Patterns in Rust</strong> - <em>Elegant code structure</em></a></td>
 </tr>
 <tr>
 <td align="center">3️⃣</td>
 <td align="center">**Algorithms**</td>
-<td align="center">`DSAR`</td>
-<td>**Data Structures and Algorithms in Rust** - *Efficient computation*</td>
+<td align="center"><a href="https://dsar.rantai.dev"><code>DSAR</code></a></td>
+<td><a href="https://dsar.rantai.dev"><strong>Data Structures and Algorithms in Rust</strong> - <em>Efficient computation</em></a></td>
 </tr>
 <tr>
 <td align="center">4️⃣</td>
 <td align="center">**AI/ML**</td>
-<td align="center">`MLVR`</td>
-<td>**Machine Learning via Rust** - *High-performance ML*</td>
+<td align="center"><a href="https://mlvr.rantai.dev"><code>MLVR</code></a></td>
+<td><a href="https://mlvr.rantai.dev"><strong>Machine Learning via Rust</strong> - <em>High-performance ML</em></a></td>
 </tr>
 <tr>
 <td align="center">5️⃣</td>
 <td align="center">**AI/ML**</td>
-<td align="center">`LMVR`</td>
-<td>**🌟 Large Language Model via Rust** - *State-of-the-art LLMs* 🌟</td>
+<td align="center"><a href="https://lmvr.rantai.dev"><code>LMVR</code></a></td>
+<td><a href="https://lmvr.rantai.dev"><strong>🌟 Large Language Model via Rust</strong> - <em>State-of-the-art LLMs</em> 🌟</a></td>
 </tr>
 <tr>
 <td align="center">6️⃣</td>
 <td align="center">**AI/ML**</td>
-<td align="center">`DLVR`</td>
-<td>**Deep Learning via Rust** - *Neural network mastery*</td>
+<td align="center"><a href="https://dlvr.rantai.dev"><code>DLVR</code></a></td>
+<td><a href="https://dlvr.rantai.dev"><strong>Deep Learning via Rust</strong> - <em>Neural network mastery</em></a></td>
 </tr>
 <tr>
 <td align="center">7️⃣</td>
 <td align="center">**Business**</td>
-<td align="center">`MMAB`</td>
-<td>**Mastering Mergers and Acquisitions** - *Strategic growth*</td>
+<td align="center"><a href="https://mmab.rantai.dev"><code>MMAB</code></a></td>
+<td><a href="https://mmab.rantai.dev"><strong>Mastering Mergers and Acquisitions</strong> - <em>Strategic growth</em></a></td>
 </tr>
 <tr>
 <td align="center">8️⃣</td>
 <td align="center">**Data**</td>
-<td align="center">`MMDR`</td>
-<td>**Multi Model Databases in Rust** - *Advanced data systems*</td>
+<td align="center"><a href="https://mmdr.rantai.dev"><code>MMDR</code></a></td>
+<td><a href="https://mmdr.rantai.dev"><strong>Multi Model Databases in Rust</strong> - <em>Advanced data systems</em></a></td>
 </tr>
 <tr>
 <td align="center">9️⃣</td>
 <td align="center">**Business**</td>
-<td align="center">`SSCM`</td>
-<td>**Smart Supply Chain** - *Intelligent logistics*</td>
+<td align="center"><a href="https://sscm.rantai.dev"><code>SSCM</code></a></td>
+<td><a href="https://sscm.rantai.dev"><strong>Smart Supply Chain</strong> - <em>Intelligent logistics</em></a></td>
 </tr>
 <tr>
 <td align="center">🔟</td>
 <td align="center">**AI/ML**</td>
-<td align="center">`RLVR`</td>
-<td>**Reinforcement Learning via Rust** - *Autonomous decision making*</td>
+<td align="center"><a href="https://rlvr.rantai.dev"><code>RLVR</code></a></td>
+<td><a href="https://rlvr.rantai.dev"><strong>Reinforcement Learning via Rust</strong> - <em>Autonomous decision making</em></a></td>
 </tr>
 </table>
 
