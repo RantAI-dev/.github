@@ -557,7 +557,6 @@ We believe cutting-edge technical knowledge should be accessible to everyone. Ou
 
 ###  **"Where Science Meets Imagination, Innovation Becomes Reality"** 
 
-![Visitor Count](https://visitors.glanton.ga/api?repo_id=RantAI-dev.RantAI-dev&label=Visitors&color=28a745&style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=RantAI-dev&color=00D4FF&style=for-the-badge)
 ![Books Published](https://img.shields.io/badge/Technical_Books-10%2B-FF6B6B?style=for-the-badge&logo=bookstack)
 
