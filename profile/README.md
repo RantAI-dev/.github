@@ -14,7 +14,7 @@
 
 ### 🌌 **Pioneering the Future of Scientific Computing & AI** 🌌
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=🔬+Advanced+Machine+Learning+%26+Deep+Learning;🧬+Digital+Twin+Technologies+%26+Simulations;🎯+Agent-Based+Modeling+%26+Optimization;💾+RISC-V+AI+Chip+Development;📚+10%2B+Open+Source+Technical+Books;🦀+Rust-Powered+Scientific+Computing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=🔬+Advanced+Machine+Learning+%26+Deep+Learning;🧬+Digital+Twin+Technologies+%26+Simulations;🎯+Agent-Based+Modeling+%26+Optimization;📚+10%2B+Open+Source+Technical+Books;🦀+Rust-Powered+Scientific+Computing)](https://git.io/typing-svg)
 
 </div>
 
