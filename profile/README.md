@@ -555,9 +555,9 @@ We believe cutting-edge technical knowledge should be accessible to everyone. Ou
 
 <div align="center">
 
-### 🌈 **"Where Science Meets Imagination, Innovation Becomes Reality"** 🌈
+###  **"Where Science Meets Imagination, Innovation Becomes Reality"** 
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=RantAI-dev.RantAI-dev)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=RantAI-dev.RantAI-dev&left_text=Visitors&style=for-the-badge&right_color=28a745)
 ![Profile Views](https://komarev.com/ghpvc/?username=RantAI-dev&color=00D4FF&style=for-the-badge)
 ![Books Published](https://img.shields.io/badge/Technical_Books-10%2B-FF6B6B?style=for-the-badge&logo=bookstack)
 
